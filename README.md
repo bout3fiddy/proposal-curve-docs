@@ -1,14 +1,14 @@
-**Proposal for the Curve DAO Grants Council**
+# Proposal for the Curve DAO Grants Council
 
-**Objective**  
+## Objective
 Hire two experienced technical writers, MarcoWorms and Mo, to enhance and update Curve's technical documentation.
 
-**Need**  
+## Need
 The existing documentation lacks recent updates and comprehensive information on several key aspects of Curve, such as Liquidity Gauges (V4 and beyond), L2 operations, new oracles, CRVUSD/LLAMMA, CryptoSwap Exchange, Tricrypto-ng, and Curve API.
 
 These information need to be covered in a way that makes it easy for new users to navigate Curve and onboard new technical talent.
 
-**Proposers**
+## Proposers
 
 - MarcoWorms (https://github.com/MarcoWorms) has a proven record of contributing to major DeFi platforms, including writing technical documentation for Yearn. Contributions include:
   1. Yearn Docs: https://docs.yearn.finance/
@@ -20,10 +20,10 @@ These information need to be covered in a way that makes it easy for new users t
  
   The proposal is endorsed by fiddyresearch, who has a track record of contributing to the Curve DAO.
 
-**Progress**  
+## Progress
 The team is currently working with the core team on the new documentation: https://mo-anon.github.io/curve-mkdocs/
 
-**Planning**  
+## Planning
 
 1. Design Documentation hub.
 2. Document Curve (as much as possible in 6 months, continue afterwards if progress is favored by the council and approved by CurveResearch).
@@ -32,11 +32,11 @@ The team is currently working with the core team on the new documentation: https
 
 Documentation is not guaranteed to be completed in 6 months time.
 
-**Documentation Management**  
+## Documentation Management
 The repository will be hosted on the curvefi Github, open to public contributions and updates. The docs will be accessible via docs.curve.fi.
 
-**Budget**  
+## Budget
 10,000 USD per month for 6 months, split evenly between MarcoWorms and Mo. Open to review and extension based on progress.
 
-**Collaboration with CurveResearch Team**  
+## Collaboration with CurveResearch Team
 Upon grant approval, the team will establish a multisig with CurveResearch members. This collaboration ensures the technical accuracy and relevance of the updated documentation.
