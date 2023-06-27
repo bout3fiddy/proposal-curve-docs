@@ -38,5 +38,17 @@ The repository will be hosted on the curvefi Github, open to public contribution
 ## Budget
 10,000 USD per month for 6 months, split evenly between MarcoWorms and Mo. Open to review and extension based on progress.
 
+Payable to:
+
+2-of-4 Multisig: [0x960B77DAf61Ac184D396db23A77Ec391c9454605](https://app.safe.global/settings/setup?safe=eth:0x960B77DAf61Ac184D396db23A77Ec391c9454605)
+
+Signers: 
+
+1. fiddyresearch.eth [0xE6DA683076b7eD6ce7eC972f21Eb8F91e9137a17](https://etherscan.io/address/eth:0xE6DA683076b7eD6ce7eC972f21Eb8F91e9137a17)
+2. Chanho (CurveResearch) [0x1B177D4BE61Bf8f28154B121acf3bbEdB6178ff0](https://etherscan.io/address/0x1B177D4BE61Bf8f28154B121acf3bbEdB6178ff0)
+3. Marco (CurveDocs) [0xB1d693B77232D88a3C9467eD5619FfE79E80BCCc](https://etherscan.io/address/0xB1d693B77232D88a3C9467eD5619FfE79E80BCCc)
+4. Mo (CurveDocs) [0x163E427123125ca77D194634Cf7DD39698225393](https://etherscan.io/address/0x163E427123125ca77D194634Cf7DD39698225393)
+
+
 ## Collaboration with CurveResearch Team
 Upon grant approval, the team will establish a multisig with CurveResearch members. This collaboration ensures the technical accuracy and relevance of the updated documentation.
